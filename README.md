@@ -2,7 +2,7 @@
 ## Project Overview
 
 In this project, I conducted an in-depth analysis of motor vehicle theft incidents in New Zealand between October 2021 and April 2022. The goal was to identify key trends and risk factors based on vehicle characteristics, location, and time. 
-Insights derived from the dataset:
+## Insights derived from the dataset
 <p> •	Total Thefts: A total of 4,509 vehicles were reported stolen during the 7-month period. </p>
 <p> •	Region Most Affected: Auckland emerged as the most vulnerable region, accounting for 34% of all reported thefts. </p>
 <p> •	Most Stolen Brand: Toyota was the most frequently stolen brand, making up 16% of the total stolen vehicles. </p>
